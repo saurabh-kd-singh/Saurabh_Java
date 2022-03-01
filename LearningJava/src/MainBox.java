@@ -12,7 +12,7 @@ class Box {
 
 public class MainBox {
 	public static void main(String[] args) {
-		Box obj1Box = new Box();
+		Box obj1Box = new Box(); //new Box() on the right hand side creates the new object and obj1Box is the reference variable.
 		obj1Box.setDimension(10, 12, 15);
 		obj1Box.showDimensions();
 		
