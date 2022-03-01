@@ -1,5 +1,5 @@
 class Box {
-	private int length, breadth, height;
+	private int length, breadth, height; //These three variables will be accessible only inside Box Class.
 	public void  setDimension(int l, int b, int h) {
 		length =l; breadth=b; height=h;
 	}
