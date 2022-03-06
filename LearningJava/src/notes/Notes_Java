@@ -1,0 +1,7 @@
+"new" :: New Keyword is used to create new object in java.
+It is used to allocate Dynamic memory at runtime in the Heap memory.
+
+I) new Keyword is used to call Instance Variable.
+II) new Keyword is used to call Non Static Method.
+III) new keyword is used to call constructor.
+IV) new Keyword is used to create objects for an ARRAY.
