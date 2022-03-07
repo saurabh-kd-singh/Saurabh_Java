@@ -1,8 +1,7 @@
 package stringOperations;
-import java.util.Scanner;
 
 //In java if you try to print the String object it will call by default the method toString();
-//There is a pre-definition of toString in java which will be called automatically.
+//There is a predefinition of toString in java which will be called automatically.
 //But, you can override the toString() method to perform some user defined task. 
 
 public class ToStringMethod {

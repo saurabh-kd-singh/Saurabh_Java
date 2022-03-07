@@ -20,7 +20,7 @@ public class StringConverter {
 			
 			if(sb.charAt(i)<48 || sb.charAt(i)>57) {  // ASCII value of numbers from 0 to 9 is 48 to 57
 				sb.deleteCharAt(i);
-				i--;  // we need to reduce the index because every time we delete a char the length of total string decreases.
+				i--;  // we need to reduce the index because every time we delete a char, the length of total string decreases.
 			}
 		}		
 		return sb.toString();
